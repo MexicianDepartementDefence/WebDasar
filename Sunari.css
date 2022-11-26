@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
+
+p {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.banner {
+    background: url("https://images2.alphacoders.com/121/1215683.jpg")
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: white;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color:red;
+}
+
+.kotak1 {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.kotak2 {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.kotak3 {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.1);
+}
